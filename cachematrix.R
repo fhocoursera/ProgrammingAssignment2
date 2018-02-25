@@ -1,5 +1,5 @@
-## Cashing the Inverse of a Matrix
-## Together these functions will compute the inverse of a matrix,
+## Caching the Inverse of a Matrix
+## Tgether these functions will compute the inverse of a matrix,
 ## and store the resulting inverse matrix within local memory - 
 ## stored within a list.  The second function will look inside 
 ## the list to get the inverse matrix from memory (if already 
